@@ -1,8 +1,18 @@
-h1{
-    background: green;
-    color: black;  
+*{
+    font: size 120px;
 }
 p{
     color: blue;
-    font: size 120%;
+}
+#name{
+    font-family: fantasy;
+}
+#legs{
+    font-size: 200px;
+}
+p.breed{
+    font-weight: bold;
+}
+p.tail{
+    font-display:small-caps;
 }
